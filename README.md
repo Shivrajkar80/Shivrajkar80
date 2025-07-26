@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 </h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Shivrajkar80&label=Profile%20Views&color=blue&style=flat" />
+  
 </p>
 
 ---
