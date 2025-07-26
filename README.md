@@ -30,24 +30,27 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning *Java, SQL, Web Development, and SAP*
 - 💡 Exploring real-world projects like *IPL Management System, **ABAP Apps*, and more
 - 🔍 Passionate about *tech, teamwork, and lifelong learning*
-- 📫 How to reach me: shivrajkar80@gmail.com
+- 📫 How to reach me: shivrajkar80@gmail.com , karshivraj51@gmail.com 
 
 ---
 
 ### 📊 Most Used Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shivrajkar80&layout=compact&langs_count=6&theme=radical&hide=cytho" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shivrajkar80&layout=compact&langs_count=6&theme=radical&hide=pytho" alt="Top Languages" />
 </p>
 
 ---
 
-### 📈 GitHub Stats
+### 💻 Tech Stack
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shivrajkar80&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-e34c26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=mysql&logoColor=white"/>
 </p>
-
 ---
 
 ### 🔗 Connect with Me
