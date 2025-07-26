@@ -26,9 +26,9 @@ Here are some ideas to get you started:
 
 ### 🚀 About Me
 
-- 🌱 I’m currently learning *Java, SQL, Web Development, and SAP*
-- 💡 Exploring real-world projects like *IPL Management System, **ABAP Apps*, and more
-- 🔍 Passionate about *tech, teamwork, and lifelong learning*
+- 🌱 I’m currently learning JAVA, SQL, Web Development, and SAP
+- 💡 Exploring real-world projects like *IPL Management System, **ABAP Apps, and more
+- 🔍 Passionate about tech, teamwork, and lifelong learning
 - 📫 How to reach me: shivrajkar80@gmail.com , karshivraj51@gmail.com 
 
 ---
