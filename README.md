@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 <!-- Typing Effect Header -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&center=true&vCenter=true&color=00FF00&width=500&lines=Hey,+I'm+Shivraj+Kar;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&center=true&vCenter=true&color=00FF00&width=500&lines=Hey,+I'm+Shivraj+Kar;Welcome+to+my+Profile!" alt="Typing SVG" />
 </h1>
 
 <p align="center">
